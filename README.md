@@ -1,47 +1,56 @@
-# Getting Started with Create React App
+# Documentation for Movie Web List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## File & Folder Naming
 
-## Available Scripts
+#### component -> PascalCase
+
+example:
+
+- pages/Homepage/index.js
+- pages/Homepage/UserTable.js
+- pages/Home.js
+- pages/account/AccountUser/index.js
+
+#### not component -> hyphens-case
+
+example:
+
+- Wrapping folder
+- file scss name
+- file image name
+
+#### function -> camelCase
+
+## CSS Rules
+This project CSS is using: 
+- CSS in JS, Emotion.sh
+
+## Start Project
+- Clone the project from git repository.
 
 In the project directory, you can run:
 
-### `npm start`
+- `npm intall`
+- `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Running Project Script
+In the project directory, you can run:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+##### `npm start` : Runs the app in the development mode.
+##### `npm run build` : Builds the app for production to the `build` folder
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project Technologies
+[<img align="left" alt="Typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />]()[<img align="left" alt="Eslint" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" style="padding-right:10px;" />]()[<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()[<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()`React Context`.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Deployment
+Deploy this project is using `netlify`. Here's the link https://ajaib-test-nabilah.netlify.app/
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## View Website
+<img width="600" alt="Screen Shot 2022-07-22 at 11 25 33" src="https://user-images.githubusercontent.com/40421876/180362425-bb7d201d-10db-4afb-a591-699a30f0a6f1.png">
+<img width="600" alt="Screen Shot 2022-07-22 at 11 25 10" src="https://user-images.githubusercontent.com/40421876/180362445-dd9a5a42-3ffb-44da-9813-5640177befa4.png">
+<img width="600" alt="Screen Shot 2022-07-22 at 11 28 02" src="https://user-images.githubusercontent.com/40421876/180362613-d4622bd8-e4de-43fc-8050-b1789cae812e.png">
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-# movie-web
