@@ -38,19 +38,28 @@ In the project directory, you can run:
 
 ##### `npm start` : Runs the app in the development mode.
 ##### `npm run build` : Builds the app for production to the `build` folder
+##### `npm run lint` : Runs the eslint.
+##### `npm run lint:fix`: Runs the eslint and auto eslint fix.
+##### `npm run format`: Runs prettier format
 
 
 ## Project Technologies
-[<img align="left" alt="Typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />]()[<img align="left" alt="Eslint" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" style="padding-right:10px;" />]()[<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()[<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()`React Context`.
+[<img align="left" alt="Typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />]()[<img align="left" alt="Eslint" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" style="padding-right:10px;" />]()[<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()[<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()`React Context`,`netlify`.
 
 
 ## Deployment
-Deploy this project is using `netlify`. Here's the link https://ajaib-test-nabilah.netlify.app/
+Deploy this project is using `netlify`. Here's the link https://movie-omdb-test.netlify.app/
+
+## Feature Website
+- View Movie List
+- View Detail Movie
+- View My Movie List
+- Remove & Save Movie
+- Skeleton Loader
+- Mobile First Media Query.
 
 
-## View Website
-<img width="600" alt="Screen Shot 2022-07-22 at 11 25 33" src="https://user-images.githubusercontent.com/40421876/180362425-bb7d201d-10db-4afb-a591-699a30f0a6f1.png">
-<img width="600" alt="Screen Shot 2022-07-22 at 11 25 10" src="https://user-images.githubusercontent.com/40421876/180362445-dd9a5a42-3ffb-44da-9813-5640177befa4.png">
-<img width="600" alt="Screen Shot 2022-07-22 at 11 28 02" src="https://user-images.githubusercontent.com/40421876/180362613-d4622bd8-e4de-43fc-8050-b1789cae812e.png">
+## Few of Website View
 
-
+<img width="1000" alt="Screen Shot 2022-08-30 at 16 20 43" src="https://user-images.githubusercontent.com/40421876/187401729-291eff4d-08d7-432c-960a-7601daa0a9de.png">
+<img width="400" alt="Screen Shot 2022-08-30 at 16 20 33" src="https://user-images.githubusercontent.com/40421876/187401749-93367ee6-811e-4166-b1c0-19258afa80bc.png">
