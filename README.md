@@ -56,7 +56,8 @@ Deploy this project is using `netlify`. Here's the link https://movie-omdb-test.
 - View My Movie List
 - Remove & Save Movie
 - Skeleton Loader
-- Mobile First Media Query.
+- Mobile First Media Query
+- Infinite Load More
 
 
 ## Few of Website View
