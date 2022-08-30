@@ -51,6 +51,7 @@ In the project directory, you can run:
 Deploy this project is using `netlify`. Here's the link https://movie-omdb-test.netlify.app/
 
 ## Feature Website
+- SPA
 - View Movie List
 - View Detail Movie
 - View My Movie List
